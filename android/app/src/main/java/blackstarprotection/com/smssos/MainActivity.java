@@ -1,4 +1,4 @@
-package blackstarprotection.com.smssos;
+package blackstarprotection.com.caregiver;
 
 import io.flutter.embedding.android.FlutterActivity;
 

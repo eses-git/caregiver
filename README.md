@@ -1,4 +1,4 @@
-# smssos
+# caregiver
 
 Secure My Space. emergency calls.
 

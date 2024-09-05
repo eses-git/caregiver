@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "blackstarprotection.com" "\0"
-            VALUE "FileDescription", "smssos" "\0"
+            VALUE "FileDescription", "caregiver" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "smssos" "\0"
+            VALUE "InternalName", "caregiver" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 blackstarprotection.com. All rights reserved." "\0"
-            VALUE "OriginalFilename", "smssos.exe" "\0"
-            VALUE "ProductName", "smssos" "\0"
+            VALUE "OriginalFilename", "caregiver.exe" "\0"
+            VALUE "ProductName", "caregiver" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

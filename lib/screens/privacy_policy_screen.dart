@@ -3,7 +3,7 @@ import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/services.dart';
-import 'package:smssos/fn/initialization.dart';
+import 'package:caregiver/fn/initialization.dart';
 
 class PrivacyPolicyScreen extends StatelessWidget {
   @override

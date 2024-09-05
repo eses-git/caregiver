@@ -1,6 +1,6 @@
 {
-    "name": "smssos",
-    "short_name": "smssos",
+    "name": "caregiver",
+    "short_name": "caregiver",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

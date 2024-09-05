@@ -1,20 +1,12 @@
 import 'package:ed25519_key_pair/ed25519_key_pair.dart';
 import 'dart:convert';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:cryptography/cryptography.dart';
-import 'package:uuid/uuid.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:smssos/classes/data_base.dart';
-import 'package:smssos/classes/app.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter/foundation.dart'; // Import this for compute
+import 'package:caregiver/classes/data_base.dart';
 
 Future<void> init() async {
 
   generateAndSaveKeyPair();
   createDatabase();
-
-
 
 }
 
